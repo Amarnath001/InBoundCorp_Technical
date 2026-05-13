@@ -1,2 +1,16 @@
-# InBoundCorp_Technical
-Terminal-based Python pattern generation project implementing multiple square/rectangle rendering algorithms using character graphics. Includes 5 rush assignments.
+# Python Rush Technical Test
+
+Terminal-based Python pattern rendering project.
+
+## Structure
+
+- rush-1-1
+- rush-1-2
+- rush-1-3
+- rush-1-4
+- rush-1-5
+
+Each folder contains a `rush.py` implementation with:
+
+```python
+def rush(x, y):
