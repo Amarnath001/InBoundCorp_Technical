@@ -1,4 +1,4 @@
-# Python Rush Technical Test
+# Python Rush Technical Test (Inboundcorp)
 
 Terminal-based Python pattern rendering project.
 
